@@ -11,7 +11,7 @@ Your task is to create a very small Android application (written in Kotlin) whic
 - Overall user experience in the application.
 
 ## Time limit
-It should take you between 4 to 8 hours to finish this task. If it takes you longer, it's okay to leave TODOs in the code, just provide an explanation what you would still finish there.
+It should take you between 4 to 8 hours to finish this task (a senior can probably do it in 2!). If it takes you longer, it's okay to leave TODOs in the code, just provide an explanation what you would still finish there.
 
 After sending the challenge we'll wait 2 weeks to hear back from you. Feel free to ask us for any clarification if you need it.
 
